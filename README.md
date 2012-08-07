@@ -1,7 +1,7 @@
 Hubot
 =====
 
-This GitHub's Campfire bot, hubot.  He's pretty cool.
+This is GitHub's Campfire bot, hubot.  He's pretty cool.
 
 
 Playing with Hubot
